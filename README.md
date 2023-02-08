@@ -2,10 +2,10 @@
 
 MetPy Tutorials
 
-Working With Units
+- Working With Units
 
-Upper Air Sounding Tutorial
+- Upper Air Sounding Tutorial
 
-xarray with MetPy Tutorial
+- xarray with MetPy Tutorial
 
-MetPy Declarative Syntax Tutorial
+- MetPy Declarative Syntax Tutorial
